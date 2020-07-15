@@ -5,6 +5,7 @@
   "main": "test.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "custom": "echo \"Error: no custom test specified\" && exit 1",
     "release": "cd content && npm run release"
   },
   "repository": {
