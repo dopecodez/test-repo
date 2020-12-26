@@ -16,7 +16,8 @@
     "@samverschueren/stream-to-observable": "^0.3.1",
     "any-observable": "^0.5.1",
     "pingman": "^1.1.1",
-    "wikipedia": "^1.0.0"
+    "wikipedia": "^1.0.0",
+    "node-base64-img": "^1.0.0"
   },
   "keywords": [],
   "author": "",
