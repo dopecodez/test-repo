@@ -2,8 +2,8 @@
 # yarn lockfile v1
 
 
-"@samverschueren/stream-to-observable@^0.3.1":
-  version "0.3.1"
+"@samverschueren/stream-to-observable@^0.2.1":
+  version "0.2.1"
   resolved "https://registry.yarnpkg.com/@samverschueren/stream-to-observable/-/stream-to-observable-0.3.1.tgz#a21117b19ee9be70c379ec1877537ef2e1c63301"
   integrity sha512-c/qwwcHyafOQuVQJj0IlBjf5yYgBI7YPJ77k4fOJYesb41jio65eaJODRUmfYKhTOFBrIZ66kgvGPlNbjuoRdQ==
   dependencies:
