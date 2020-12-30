@@ -3,7 +3,7 @@
 
 
 "@samverschueren/stream-to-observable@^0.2.1":
-  version "0.3.1"
+  version "0.2.1"
   resolved "https://registry.yarnpkg.com/@samverschueren/stream-to-observable/-/stream-to-observable-0.3.1.tgz#a21117b19ee9be70c379ec1877537ef2e1c63301"
   integrity sha512-c/qwwcHyafOQuVQJj0IlBjf5yYgBI7YPJ77k4fOJYesb41jio65eaJODRUmfYKhTOFBrIZ66kgvGPlNbjuoRdQ==
   dependencies:
@@ -42,3 +42,11 @@ node-fetch@^2.6.1:
   version "2.6.1"
   resolved "https://registry.yarnpkg.com/node-fetch/-/node-fetch-2.6.1.tgz#045bd323631f76ed2e2b55573394416b639a0052"
   integrity sha512-V4aYg89jEoVRxRb2fJdAg8FHvI7cEyYdVAh94HH0UIK8oJxUfkjlDQN9RbMx+bEjP7+ggMiFRprSti032Oipxw==
+
+wikipedia@^1.0.0:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/wikipedia/-/wikipedia-1.0.1.tgz#c4b245ce04786670caf69e5f9070a7ed75b38c0a"
+  integrity sha512-LzfLtXT5SK/yypueRcXMTJpWbWxb/L8eFZPlXOBzmcpYB452EoIYInvd86WxQUtCQ9Hsnxo07a0SGjfN3A2WDg==
+  dependencies:
+    infobox-parser "^3.4.1"
+    node-fetch "^2.6.1"
